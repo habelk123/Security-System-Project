@@ -22,3 +22,4 @@ It's a mock security-system that utilizes a STM32F429ZI Discovery Board along wi
 
 ## Note:
 Due to Keil Studio Cloud being deprecated in July 2026, this project may not be able to be executed through the VS Code extension for Keil Studio, hence a video link has been provided instead to demo the project.
+[![Watch the Demo Video]](https://youtube.com/shorts/PzhdmcL7amo?feature=share)
